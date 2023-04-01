@@ -5,7 +5,7 @@ I like coding. is it obvious?💁🏼‍♂️🌚
 
 
 - 🔭 I’m currently working on rEalLy cOoL sTuFf😵‍💫
-- 🌱 I’m currently learning computer science😴
+- 🌱 I’m currently learning Web Development😴
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Science? Julia? Python? Tech? idk man
