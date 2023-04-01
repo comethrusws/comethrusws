@@ -15,3 +15,4 @@ I like coding. is it obvious?💁🏼‍♂️🌚
 
 
 [![Basab's GitHub stats](https://github-readme-stats.vercel.app/api?username=chillobae)](https://github.com/chillobae/github-readme-stats)
+![Basab's GitHub stats](https://github-readme-stats.vercel.app/api?username=chillobae&show_icons=true&theme=tokyonight)
