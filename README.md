@@ -8,5 +8,5 @@ I like coding. is it obvious?💁🏼‍♂️🌚
 💻I do have Some interesting projects. and will show them soon🙏🏻
 
 
-![Basab's GitHub stats](https://github-readme-stats.vercel.app/api?username=chillobae&show_icons=true&theme=tokyonight)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chillobae&hide_progress=true)
+![Basab's GitHub stats](https://github-readme-stats.vercel.app/api?username=chillobae&show_icons=true&theme=tokyonight)            
  
