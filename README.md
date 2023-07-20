@@ -1,11 +1,12 @@
 ### Hello there 👋👀, I'm Basab!
 
 (its pronounced as Baa-sub btw🥹)
+<br>
 you prolly know me. or well.. don't. 
 I like coding. is it obvious?💁🏼‍♂️🌚
-
+<br>
 🍳I work w/ Python,C,C++, Javascript and Julia(Still getting the hang of it tho)
-
+<br>
 💻I do have Some interesting projects. and will show them soon🙏🏻
 
 
