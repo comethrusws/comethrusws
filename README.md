@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm basab👀🗿
+### Hello there 👋👀, I'm Basab!
+
+(its pronounced as Baa-sub btw🥹)
 you prolly know me. or well.. don't. 
 I like coding. is it obvious?💁🏼‍♂️🌚
 
