@@ -8,7 +8,7 @@ I like coding. is it obvious?💁🏼‍♂️🌚
 <br>
 💻I do have Some interesting projects. and will show them soon🙏🏻🥂
 
-📥email me here▶️ basabjha@naver.com 
+📥email me here▶️ b48203580@gmail.com 
 
 ### 🦖My Tech Stack
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
