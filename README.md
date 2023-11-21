@@ -25,3 +25,5 @@ Reach me at 📧 b42803580@gmail.com
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=comethrusws&show_icons=true&locale=en&theme=" alt="comethrusws" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comethrusws&show_icons=true&locale=en&layout=compact" alt="comethrusws" /></p>
