@@ -1,5 +1,8 @@
 ### Hello there 👋👀, I'm Basab!
-(its pronounced as Baa-sub btw🫡)
+(its pronounced as Baa-sub btw🫡
+I'm a Backend/Software Dev Working With Python🌐
+
+Reach me at 📧 b42803580@gmail.com 
 <br> <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comethrusws&theme=" alt="comethrusws" /></a> </p>
 
@@ -21,6 +24,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=comethrusws&show_icons=true&locale=en&theme=" alt="comethrusws" /></p>
