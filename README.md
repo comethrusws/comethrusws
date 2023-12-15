@@ -1,15 +1,9 @@
-### Hello there 👋👀, I'm Basab!
-(its pronounced as Baa-sub btw🫡)
+### Basab
+(its pronounced as Baa-sub btw)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comethrusws&label=Profile%20views&color=26a269&style=flat-square" alt="comethrusws" /> </p>
 I do Backend & Software Dev with Python🌐
 <br>
-Reach me at 📧 basabjha.13@gmail.com 
-<br>
-<h3 align="left">Connect w/ me?</h3>
-<div> <a href="https://www.linkedin.com/in/basabjha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/comethrusws" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
 
 <h3 align="left">Tech Stack🖥</h3>
 <p align="left">
@@ -28,6 +22,7 @@ Reach me at 📧 basabjha.13@gmail.com
 
 
 </p>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=comethrusws&show_icons=true&locale=en&theme=" alt="comethrusws" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comethrusws&show_icons=true&locale=en&layout=compact" alt="comethrusws" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=comethrusws&show_icons=true&locale=en&theme=" alt="comethrusws" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comethrusws&show_icons=true&locale=en&layout=compact" alt="comethrusws" />
+</p>
+<p></p>
