@@ -2,7 +2,8 @@
 (its pronounced as Baa-sub btw)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comethrusws&label=Profile%20views&color=26a269&style=flat-square" alt="comethrusws" /> </p>
-I do Backend & Software Dev with Python🌐
+Fullstack Dev (Django/Express||Vue/React)🌐
+AI/ML Enthusiast
 <br>
 
 <h3 align="left">Tech Stack🖥</h3>
