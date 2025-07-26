@@ -1,5 +1,5 @@
 # Hi 👋, I'm Basab 
-<br>(Pronounced Baa-sub btw)<br>Im an MLE and WebDev from Nepal
+<br>(Pronounced Baa-sub btw)<br>Im a ML/DL Engineer, AI Researcher and SWE from Nepal. <br> I do cool stuff at [SAGEA](https://sagea.space) 
 
 
 ## 🌐 Socials:
