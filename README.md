@@ -1,6 +1,8 @@
 # Hi 👋, I'm Basab 
 <br>(Pronounced Baa-sub btw)<br>Im a ML/DL Engineer, AI Researcher and SWE from Nepal. <br> I do cool stuff at [SAGEA](https://sagea.space) 
 
+<img width="538" height="136" alt="image" src="https://github.com/user-attachments/assets/16ac8ac9-0139-40ac-9179-babfc3aa09a6" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/comethrusws) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basabjha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@basabjha) 
