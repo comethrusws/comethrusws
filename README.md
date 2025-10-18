@@ -6,7 +6,7 @@
 
 
 ## Socials:
-[![Essays](https://img.shields.io/badge/Essays-0A9396?logo=bookstack&logoColor=white)](https://basabjha.com.np/essays)
+[![Essays](https://img.shields.io/badge/Essays-0A9396?logo=bookstack&logoColor=white)](https://basab.bearblog.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9B5DE5?logo=briefcase&logoColor=white)](https://basabjha.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/comethrusws) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basabjha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@basabjha) 
 ---
