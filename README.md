@@ -3,7 +3,7 @@
 <br><br>[![committers.top badge](https://user-badge.committers.top/nepal_private/comethrusws.svg)](https://user-badge.committers.top/nepal_private/comethrusws)
 
 <img width="638" height="236" alt="image" src="https://github.com/user-attachments/assets/16ac8ac9-0139-40ac-9179-babfc3aa09a6" />
-<img width="800" height="375" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhheGc3MXRjd21zYjN3MDQwbTd4MDAwa3U4MWpicHloNTI0eTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D12CsrRNv7gL6/giphy.gif" />
+<img width="638" height="375" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhheGc3MXRjd21zYjN3MDQwbTd4MDAwa3U4MWpicHloNTI0eTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D12CsrRNv7gL6/giphy.gif" />
 
 
 
