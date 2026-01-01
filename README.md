@@ -30,6 +30,18 @@ i do cool stuff and make crazy decisions at [SAGEA](https://sagea.space) as the 
 <br>
 ---
 
+## stuff i've worked on/made
+
+<div align="left">
+  
+  - **[SAGE LLMs](https://huggingface.co/collections/sagea-ai/sage-reasoning-v1)** - Hybrid Reasoning LLMs made w/ IDA | Pytorch
+  - **[Mirage](https://github.com/comethrusws/mirage)** - current longterm OSS Project | Go
+  - **[Finlytic](https://github.com/UzitheI/finlytic)** - won IdeaX 2024 | Django, Celery, Redis
+  - **[PricingOS](https://github.com/sagea-ai/pricingos)** - Won DAV's CodeFest | NextJS, PyTorch
+  - **[Reasonet](https://devfolio.co/projects/reasonet-d9b6)** - Won DeerHack 2025 | NextJS, PyTorch
+</div>
+
+---
 ![Metrics](https://github.com/comethrusws/comethrusws/blob/main/github-metrics.svg)
 
 </div>
