@@ -7,7 +7,7 @@
 ### I'm a ML/DL Engineer, AI Researcher and SWE from Nepal 🇳🇵
 
 i do cool stuff and make crazy decisions at [SAGEA](https://sagea.space) as the CAIO
-<br>i love building AI stuff and backends. coding is my passion (*iykyk*, what is a break anyways?)
+<br>i love building AI stuff and backends. coding is my passion (<mark>***iykyk*, what is a break anyways?**</mark>)
 
 <br>
 
