@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Basab 
-<br>(Pronounced Baa-sub btw)<br>Im a ML/DL Engineer, AI Researcher and SWE from Nepal. <br> I do cool stuff at [SAGEA](https://sagea.space) 
+(Pronounced Baa-sub btw)<br>
+### Im a ML/DL Engineer, AI Researcher and SWE from Nepal 🇳🇵
+ I do cool stuff and make crazy decisions at [SAGEA](https://sagea.space) as the CAIO
 <br><br>[![committers.top badge](https://user-badge.committers.top/nepal_private/comethrusws.svg)](https://user-badge.committers.top/nepal_private/comethrusws)
 
 <img width="638" height="236" alt="image" src="https://github.com/user-attachments/assets/16ac8ac9-0139-40ac-9179-babfc3aa09a6" />
